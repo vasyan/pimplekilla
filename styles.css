@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.console-wrapper {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.console-title {
+  margin-right: 50px;
+  text-align: right;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.console-item {
+  font-size: 8px;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "pimple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "poi index.js",
+    "build": "poi build index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zingtouch": "^1.0.6"
+  },
+  "devDependencies": {
+    "poi": "^10.2.10"
+  }
+}
